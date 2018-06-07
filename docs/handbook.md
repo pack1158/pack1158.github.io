@@ -61,12 +61,14 @@ leader and assistant leader.
 Any boy who is 5 years old or in Kindergarten may join Cub Scouts. Ranks are as
 follows:
 
-Lion - Kindergarten</br>
-Tiger - 1st Grade</br>
-Wolf - 2nd Grade</br>
-Bear - 3rd Grade</br>
-Webelos - 4th Grade</br>
-Arrow of Light - 5th Grade
+| Rank | Grade |
+|:--|:--|
+| Lion | Kindergarten |
+| Tiger | 1st Grade |
+| Wolf | 2nd Grade |
+| Bear | 3rd Grade |
+| Webelos | 4th Grade |
+| Arrow of Light | 5th Grade |
 
 Each Scout needs a BSA Scout book for his rank. The book outlines the program
 for the year and specific rank requirements.
@@ -106,7 +108,9 @@ parent or guardian in attendance.
 
 ## Uniform
 
-1. The BSA Field uniform (formally known as Class A, detailed below) should be
+### BSA Field Uniform
+
+The BSA Field uniform (formally known as Class A, detailed below) should be
 worn to all official Scout functions: den meetings, pack meetings, field trips,
 etc., unless otherwise noted by the den leader. Scouts can also wear their
 uniform to school on pack meeting day. BSA Field uniforms must include all
@@ -116,25 +120,19 @@ pants/shorts, swim gear or athletic shorts of any kind are NOT acceptable.
 Sneaker and hiking boots are accepted as footwear. Sandals, flip-flops, and
 cleats are not acceptable.
 
-2. The Activity Uniform (Formally known as Class B, Pack t-shirts) are
-appropriate at summer events and the “messier” activities. Activity t-shirts
-are provided upon receipt of the Pack dues.
-
-BSA Field Uniform:</br>
-Shirt: Short sleeve - Tiger, Wolf, Bear (Blue); - $25, Webelos and Arrow of
-Light (tan) - $30</br>
-Hat: $15</br>
-Neckerchief - $9</br>
-Neckerchief Slide - $6</br>
-Belt - $10</br>
-Uniform Patches - $10-15 (total)</br>
-Handbooks - provided
-
-*Lions will have their own blue t-shirt and cap for their rank.*
+| Item | Cost (Lion) | Cost (Tiger, Wolf, Bear) | Cost (Webelos, Arrow of Light) |
+|:--|:--|:--|:--|
+| Shirt | (t-shirt) $10 | (blue) $25 | (tan) $30 |
+| Hat | $13 | $15 | $15 |
+| Neckerchief | N/A | $9 | $9 |
+| Neckerchief Slide | N/A | $6 | $6 |
+| Belt | N/A | $10 | $10 |
+| Uniform Patches | N/A | $10-15 (total)| $10-15 (total) |
+| Total | $23 | $75-80 | $80-85 |
 
 Uniform supplies can be purchased at:
 
-Online: www.scoutstuff.org 
+Online: [www.scoutstuff.org](https://www.scoutshop.org/)
 
 National Capital Area Council Scout Shop</br>
 9190 Rockville Pike</br>
@@ -150,7 +148,13 @@ Leesburg Hobbies & Collectibles</br>
 9 West Market Street</br>
 Leesburg, VA 20176</br>
 (703) 779 8600 (Call for hours of operation)</br>
-www.leesburghobbies.com
+[www.leesburghobbies.com](http://www.leesburghobbies.com)
+
+### Activity Uniform
+
+The Activity Uniform (Formally known as Class B, Pack t-shirts) are appropriate
+at summer events and the “messier” activities. Activity t-shirts are provided
+upon receipt of the Pack dues.
 
 ## Family Involvement
 
@@ -178,10 +182,10 @@ to continue on in scouting. It is fun and offers great rewards!
 Scouting offers a wide range of training including Youth Protection Training.
 We encourage all parents/adult family members/guardians to take this training.
 It is an online training found at
-http://www.scouting.org/Training/youthprotection.aspx. It is required for all
-BSA registered volunteers. It is a great tool for everyone involved as it
-provides an understanding of the policies put forth by the scouting program in
-protection of our boys.
+[www.scouting.org/training/youthprotection.aspx](http://www.scouting.org/training/youthprotection.aspx).
+It is required for all BSA registered volunteers. It is a great tool for
+everyone involved as it provides an understanding of the policies put forth by
+the scouting program in protection of our boys.
 
 ## Fees 
 

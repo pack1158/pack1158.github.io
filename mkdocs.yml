@@ -1,5 +1,14 @@
 site_name: Pack 1158
 pages:
-- Home: 'index.md'
-- Handbook: 'handbook.md'
-- Calendar: 'calendar.md'
+  - Home: index.md
+  - Handbook: handbook.md
+  - Calendar: calendar.md
+  - Events:
+    - Pinewood Derby: events/pinewood-derby.md
+    - Blue & Gold: events/blue-and-gold-ceremony.md
+    - Watermine: events/watermine-back-to-school-blast.md
+    - P-Nats Scout Night: events/potomac-nationals-scout-night.md
+    - Bike Hike: events/bike-hike.md
+    - Scouting for Food: events/scouting-for-food.md
+    - Caroling: events/caroling.md
+    - Bottle Rocket Derby: events/soda-bottle-rocket-derby.md
