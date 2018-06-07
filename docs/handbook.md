@@ -1,6 +1,6 @@
 # Pack 1158 Handbook
 
-## Welcome to Cub Scouting
+**Welcome to Cub Scouting**
 
 As a parent, you want your son to grow up to be a person of worth; a
 self-reliant, dependable, and caring individual. Scouting has these same goals
@@ -14,7 +14,7 @@ influences in today’s society, Scouting provides your son with a positive peer
 group and a program that is fun and adventurous and helps him to “be prepared”
 to shape his own future.
 
-### Scout Basics
+## Scout Basics
 
 Your Boy is a Member of a **Den** (he will be assigned an existing den or a new
 den will be formed).
@@ -54,7 +54,7 @@ Dulles International Airport Rotary Club).
   operates packs within the guidelines and policies of the chartered
   organization and the Boy scouts of America.
 
-### Pack Structure
+## Pack Structure
 
 Within each Pack, the boys are divided into dens according to grade level. Dens
 will consist of 5-8 boys. Each den will have at least one BSA-registered adult
@@ -68,12 +68,12 @@ Tiger - 1st Grade</br>
 Wolf - 2nd Grade</br>
 Bear - 3rd Grade</br>
 Webelos - 4th Grade</br>
-Arrow of Light - 5th Grade</br>
+Arrow of Light - 5th Grade
 
 Each Scout needs a BSA Scout book for his rank. The book outlines the program
 for the year and specific rank requirements.
 
-### Den Meetings 
+## Den Meetings 
 
 Days, times, and locations of den meetings are determined by the Den Leader and
 den parents.
@@ -88,7 +88,7 @@ two-deep adult leadership**. This means one registered Scout volunteer and at
 least one other adult must be present at any den activity. **There are no
 exceptions to this rule.**
 
-### Pack Meetings
+## Pack Meetings
 
 Pack meetings are held on the 3rd Wednesday of each month during the school
 year. Pack 1158 meets in the cafeteria of Ashburn Elementary School from
@@ -106,7 +106,7 @@ attendance is also encouraged at Pack meetings. Boys love to get awards and to
 be recognized in front of their family. Each Scout must have at least one
 parent or guardian in attendance.
 
-### Uniform
+## Uniform
 
 1. The BSA Field uniform (formally known as Class A, detailed below) should be
 worn to all official Scout functions: den meetings, pack meetings, field trips,
@@ -118,6 +118,10 @@ pants/shorts, swim gear or athletic shorts of any kind are NOT acceptable.
 Sneaker and hiking boots are accepted as footwear. Sandals, flip-flops, and
 cleats are not acceptable.
 
+2. The Activity Uniform (Formally known as Class B, Pack t-shirts) are
+appropriate at summer events and the “messier” activities. Activity t-shirts
+are provided upon receipt of the Pack dues.
+
 BSA Field Uniform:</br>
 Shirt: Short sleeve - Tiger, Wolf, Bear (Blue); - $25, Webelos and Arrow of
 Light (tan) - $30</br>
@@ -126,7 +130,7 @@ Neckerchief - $9</br>
 Neckerchief Slide - $6</br>
 Belt - $10</br>
 Uniform Patches - $10-15 (total)</br>
-Handbooks - provided</br>
+Handbooks - provided
 
 *Lions will have their own blue t-shirt and cap for their rank.*
 
@@ -134,35 +138,30 @@ Uniform supplies can be purchased at:
 
 Online: www.scoutstuff.org 
 
-National Capital Area Council Scout Shop
-9190 Rockville Pike
-Bethesda, MD 20814
+National Capital Area Council Scout Shop</br>
+9190 Rockville Pike</br>
+Bethesda, MD 20814</br>
 (301) 564 1091
 
-Northern Virginia Scout Shop
-5253 Port Royal Road
-Springfield VA 22151
+Northern Virginia Scout Shop</br>
+5253 Port Royal Road</br>
+Springfield VA 22151</br>
 (703) 321 4836
 
-Leesburg Hobbies & Collectibles 
-9 West Market Street
-Leesburg, VA 20176
-(703) 779 8600 (Call for hours of operation)
+Leesburg Hobbies & Collectibles</br>
+9 West Market Street</br>
+Leesburg, VA 20176</br>
+(703) 779 8600 (Call for hours of operation)</br>
 www.leesburghobbies.com
 
-2. The Activity Uniform (Formally known as Class B, Pack t-shirts) are
-appropriate at summer events and the “messier” activities. Activity t-shirts
-are provided upon receipt of the Pack dues.
-
-### Family Involvement
+## Family Involvement
 
 The family is the basis of Cub Scouting. The most important help that you, as a
 parent, can give your boys is to work with him on his Cub Scouting activities.
 Being active in his den activities will help you in your understanding of all
 that he is achieving.
 
-
-### Volunteering
+## Volunteering
 
 The Pack 1158 leadership is 100% volunteer driven, and help with the planning
 and implementation of activities is welcomed and encouraged. Your son’s den and
@@ -176,7 +175,7 @@ Your role as a parent is the secret to a successful Cub Scouting program! It is
 proven that the more active a parent is in scouting, the more likely a boy is
 to continue on in scouting. It is fun and offers great rewards!
 
-### Training
+## Training
 
 Scouting offers a wide range of training including Youth Protection Training.
 We encourage all parents/adult family members/guardians to take this training.
@@ -186,7 +185,7 @@ BSA registered volunteers. It is a great tool for everyone involved as it
 provides an understanding of the policies put forth by the scouting program in
 protection of our boys.
 
-### Fees 
+## Fees 
 
 The Pack collects dues at the start of each scouting year (October) to cover
 the expenses of the Pack. This includes the annual national registration fee to
