@@ -1,7 +1,5 @@
 # Pack 1158 Handbook
 
-**Welcome to Cub Scouting**
-
 As a parent, you want your son to grow up to be a person of worth; a
 self-reliant, dependable, and caring individual. Scouting has these same goals
 in mind for him. Since 1910, we have been weaving lifetime values into fun and
