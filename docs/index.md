@@ -1,3 +1,9 @@
 # Welcome to Pack 1158
 
-<iframe src="https://calendar.google.com/calendar/embed?src=itnc7b919ea57u7kdcg3f5e1ob1f2jpu%40import.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Pack 1158 is a Cub Scout Pack operating out of Ashburn, VA, chartered by the
+Dulles International Airport Rotary Club in the Goose Creek District of the
+National Capital Area Council of the Boy Scouts of America.
+
+Our parent handbook can be found [here](handbook.md).
+
+Our pack calendar can be found [here](calendar.md).

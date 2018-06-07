@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to Pack 1158",
+            "text": "Welcome to Pack 1158\n\n\nPack 1158 is a Cub Scout Pack operating out of Ashburn, VA, chartered by the\nDulles International Airport Rotary Club in the Goose Creek District of the\nNational Capital Area Council of the Boy Scouts of America.\n\n\nOur parent handbook can be found \nhere\n.\n\n\nOur pack calendar can be found \nhere\n.",
             "title": "Home"
         },
         {
             "location": "/#welcome-to-pack-1158",
-            "text": "",
+            "text": "Pack 1158 is a Cub Scout Pack operating out of Ashburn, VA, chartered by the\nDulles International Airport Rotary Club in the Goose Creek District of the\nNational Capital Area Council of the Boy Scouts of America.  Our parent handbook can be found  here .  Our pack calendar can be found  here .",
             "title": "Welcome to Pack 1158"
         },
         {
@@ -64,6 +64,16 @@
             "location": "/handbook/#fees",
             "text": "The Pack collects dues at the start of each scouting year (October) to cover\nthe expenses of the Pack. This includes the annual national registration fee to\nbecome a Scout, insurance, and the annual subscription to Boys Life magazine.\nOther costs that are covered by the Pack include:   Cub Scout handbook  Class B Pack t-shirt  Scouting awards  Blue & Gold Celebration and Pinewood Derby  Adult leader registration fees  Other events and activities   Fees are non-refundable. Fees are collected at time of the registration of each\nscout.",
             "title": "Fees"
+        },
+        {
+            "location": "/calendar/",
+            "text": "Pack Calendar",
+            "title": "Calendar"
+        },
+        {
+            "location": "/calendar/#pack-calendar",
+            "text": "",
+            "title": "Pack Calendar"
         }
     ]
 }
