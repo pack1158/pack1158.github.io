@@ -60,6 +60,12 @@
     </url>
         
     <url>
+     <loc>/resources/forms/</loc>
+     <lastmod>2018-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/resources/handbook/</loc>
      <lastmod>2018-06-09</lastmod>
      <changefreq>daily</changefreq>
