@@ -1,12 +1,15 @@
 site_name: Pack 1158
 pages:
   - Home: index.md
+  - Join: join.md
   - Events:
-    - Watermine: events/watermine-back-to-school-blast.md
-    - P-Nats Scout Night: events/potomac-nationals-scout-night.md
     - Bottle Rocket Derby: events/soda-bottle-rocket-derby.md
     - Day/Twilight Camp: events/passport-to-adventure.md
+    - Independence Day Parade: events/independence-day-parade.md
+    - P-Nats Scout Night: events/potomac-nationals-scout-night.md
+    - Watermine: events/watermine-back-to-school-blast.md
   - Resources:
-    - Handbook: resources/handbook.md
     - Calendar: resources/calendar.md
+    - Forms: resources/forms.md
+    - Handbook: resources/handbook.md
     - Packing List: resources/camp-packing-list.md
