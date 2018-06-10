@@ -1,11 +1,14 @@
 site_name: Pack 1158
 pages:
   - Home: index.md
-  - Join: join.md
+  - Join:
+    - Join Pack 1158: join.md
+    - Join Scouting Night: events/join-scouting-night.md
   - Events:
     - Bottle Rocket Derby: events/soda-bottle-rocket-derby.md
     - Day/Twilight Camp: events/passport-to-adventure.md
     - Independence Day Parade: events/independence-day-parade.md
+    - Join Scouting Night: events/join-scouting-night.md
     - P-Nats Scout Night: events/potomac-nationals-scout-night.md
     - Water Mine: events/water-mine-back-to-school-blast.md
   - Resources:
