@@ -107,13 +107,58 @@
         },
         {
             "location": "/events/water-mine-back-to-school-blast/",
-            "text": "Water Mine Back to School Blast\n\n\nWe have created a \nDoodle poll\n to\nhelp select a date for the Back to School Blast at Lake Fairfax / Water Mine\nFamily Swimmin' Hole. Please indicate your availability for any of the weekends\nin August.",
+            "text": "Water Mine Back to School Blast\n\n\nWe have created a \nDoodle poll\n to\nhelp select a date for the Back to School Blast at Lake Fairfax / Water Mine\nFamily Swimmin' Hole. Please indicate your availability for any of the weekends\nin August.\n\n\nBelow is a draft itinerary/campout plan and subject to change.\n\n\nDirections\n\n\nLake Fairfax Park\n\n1400 Lake Fairfax Drive\n\n\nSchedule\n\n\n\n\n\n\n\n\nDay\n\n\nTime\n\n\nActivity\n\n\n\n\n\n\n\n\n\n\nSaturday\n\n\n11:30 AM - 12:30 PM\n\n\nRegistration and Setup\n\n\n\n\n\n\n\n\n12:30 PM\n\n\nOpening Flags and Den Assignments\n\n\n\n\n\n\n\n\n1:00 - 4:00 PM\n\n\nWater Mine\n\n\n\n\n\n\n\n\n4:30 - 6:30 PM\n\n\nSiesta/Family Time - Pack Cookout\n\n\n\n\n\n\n\n\n6:30 PM\n\n\nCamp Cleanup\n\n\n\n\n\n\n\n\n8:00 - 9:00 PM\n\n\nCampfire / Marshmallows\n\n\n\n\n\n\n\n\n10:00 PM\n\n\nLights Out\n\n\n\n\n\n\nSunday\n\n\n8:30 AM\n\n\nCamp Cleanup\n\n\n\n\n\n\n\n\n8:45 AM\n\n\nClosing Flags / Depart\n\n\n\n\n\n\n\n\nForms\n\n\n\n\nCompleted medical forms (parts A and B) and copy of insurance card\n\n\nMedical forms are required for \nALL\n participants\n\n\nScout forms should already be on file (with copy of insurance card) - if\n  you are uncertain, please check\n\n\n\n\n\n\n\n\nPayment\n\n\n\n\nCheck or cash payment (exact change please) - Checks payable to \"Pack 1158\"\n\n\n\n\nWhat to Bring\n\n\n\n\nSwimming suit and towel for Water Mine\n\n\nChange of clothes / toiletries / towel for camp\n\n\n\n\nCamping Gear\n\n\n\n\nTest\n\n\nCot / sleeping pad\n\n\nSleeping bag\n\n\nCamp chair\n\n\nFlashlight\n\n\nSunscreen / hat\n\n\nBug repellant\n\n\nDeck of cards, frisbee, etc.\n\n\n\n\nFood\n\n\n\n\nBring a bag lunch for Saturday check-in and snacks for the day\n\n\nBring water, drinks, and ice for your family\n\n\nBring a main dish for your family (pack will provide charcoal)\n\n\nBring a side dish to share\n\n\nOdd number dens bring a side dish (chips don't count!)\n\n\nEven number dens bring a dessert\n\n\n\n\n\n\n\n\nPack Provides\n\n\n\n\nCharcoal\n\n\nPaper plates\n\n\nNapkins\n\n\nPlastic forks, spoons, knives\n\n\nTable clothes for main food table\n\n\nS'mores fixins\n\n\n\n\nMiscellaneous\n\n\n\n\nWe'll assign the boys into \"campout dens\" and \"campout\" den leaders will be\n  assigned\n\n\nRecommend that canoeing not be undertaken. If you canoe, it is not considered\n  part of this cub scout outing.\n\n\nFishing is ok... with adult supervision.\n\n\nBuddy system is mandatory. Boys must inform parents before leaving camp and\n  must have a partner.\n\n\nAll adult participants must watch after their children (charcoal, campfire,\n  lake, poison ivy, sunburn, etc.)",
             "title": "Water Mine"
         },
         {
             "location": "/events/water-mine-back-to-school-blast/#water-mine-back-to-school-blast",
-            "text": "We have created a  Doodle poll  to\nhelp select a date for the Back to School Blast at Lake Fairfax / Water Mine\nFamily Swimmin' Hole. Please indicate your availability for any of the weekends\nin August.",
+            "text": "We have created a  Doodle poll  to\nhelp select a date for the Back to School Blast at Lake Fairfax / Water Mine\nFamily Swimmin' Hole. Please indicate your availability for any of the weekends\nin August.  Below is a draft itinerary/campout plan and subject to change.",
             "title": "Water Mine Back to School Blast"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#directions",
+            "text": "Lake Fairfax Park \n1400 Lake Fairfax Drive",
+            "title": "Directions"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#schedule",
+            "text": "Day  Time  Activity      Saturday  11:30 AM - 12:30 PM  Registration and Setup     12:30 PM  Opening Flags and Den Assignments     1:00 - 4:00 PM  Water Mine     4:30 - 6:30 PM  Siesta/Family Time - Pack Cookout     6:30 PM  Camp Cleanup     8:00 - 9:00 PM  Campfire / Marshmallows     10:00 PM  Lights Out    Sunday  8:30 AM  Camp Cleanup     8:45 AM  Closing Flags / Depart",
+            "title": "Schedule"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#forms",
+            "text": "Completed medical forms (parts A and B) and copy of insurance card  Medical forms are required for  ALL  participants  Scout forms should already be on file (with copy of insurance card) - if\n  you are uncertain, please check",
+            "title": "Forms"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#payment",
+            "text": "Check or cash payment (exact change please) - Checks payable to \"Pack 1158\"",
+            "title": "Payment"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#what-to-bring",
+            "text": "Swimming suit and towel for Water Mine  Change of clothes / toiletries / towel for camp",
+            "title": "What to Bring"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#camping-gear",
+            "text": "Test  Cot / sleeping pad  Sleeping bag  Camp chair  Flashlight  Sunscreen / hat  Bug repellant  Deck of cards, frisbee, etc.",
+            "title": "Camping Gear"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#food",
+            "text": "Bring a bag lunch for Saturday check-in and snacks for the day  Bring water, drinks, and ice for your family  Bring a main dish for your family (pack will provide charcoal)  Bring a side dish to share  Odd number dens bring a side dish (chips don't count!)  Even number dens bring a dessert",
+            "title": "Food"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#pack-provides",
+            "text": "Charcoal  Paper plates  Napkins  Plastic forks, spoons, knives  Table clothes for main food table  S'mores fixins",
+            "title": "Pack Provides"
+        },
+        {
+            "location": "/events/water-mine-back-to-school-blast/#miscellaneous",
+            "text": "We'll assign the boys into \"campout dens\" and \"campout\" den leaders will be\n  assigned  Recommend that canoeing not be undertaken. If you canoe, it is not considered\n  part of this cub scout outing.  Fishing is ok... with adult supervision.  Buddy system is mandatory. Boys must inform parents before leaving camp and\n  must have a partner.  All adult participants must watch after their children (charcoal, campfire,\n  lake, poison ivy, sunburn, etc.)",
+            "title": "Miscellaneous"
         },
         {
             "location": "/resources/calendar/",
@@ -124,6 +169,26 @@
             "location": "/resources/calendar/#pack-calendar",
             "text": "",
             "title": "Pack Calendar"
+        },
+        {
+            "location": "/resources/flag-ceremony/",
+            "text": "Flag Ceremony\n\n\nOpening Flags\n\n\n(US Flag is lined-up on the right side of the procession)\n\n\n\u201cCub Scouts, Attention\u201d\n\n\n\u201cColor Guard, Attention\u201d\n\n\n\u201cAudience, Please Stand for the Presentation of the Colors!\u201d\n\n\n\"Scout Salute!  Those not in uniform, please place your right hand over your heart.\"\n\n\n\u201cColor Guard, Advance\u201d \n\n\n(when color guard reaches the front\u2026)\n\u201cColor Guard, Halt\u201d \n\n\n\u201cColor Guard, Cross the Colors.\u201d\n\n\n\u201cColor Guard, Post the Colors\u201d\n\n\n\u201cPlease Join us in The Pledge of Allegiance\u201d (I pledge allegiance, to the flag...)\n\n\nPlease join us in \u201cThe Cub Scout Promise\u201d (I promise, to do my best...)\n\n\n\u201cTwo.\u201d\n(Everyone drops salute) \n\n\n\u201cColor Guard  Dismissed.  Pack at Ease.  Audience please be seated.\u201d\n\n\nClosing Flags\n\n\n\u201cCub Scouts Attention\u201d\n\n\n\u201cColor Guard Attention\u201d\n\n\n\u201cAudience Please Stand For the Retiring of the Colors\u201d\n\n\n\u201cCub Scouts in Uniform \u201cHand Salute\u201d\n\n\n\u201cColor Guard, Retrieve the Colors\u201d\n\n\n\u201cColor Guard, Retire the Colors\u201d\n\n\n\u201cCub Scouts  Too\u201d\n\n\n\u201cBugler, Blow Taps\u201d",
+            "title": "Flag Ceremony"
+        },
+        {
+            "location": "/resources/flag-ceremony/#flag-ceremony",
+            "text": "",
+            "title": "Flag Ceremony"
+        },
+        {
+            "location": "/resources/flag-ceremony/#opening-flags",
+            "text": "(US Flag is lined-up on the right side of the procession)  \u201cCub Scouts, Attention\u201d  \u201cColor Guard, Attention\u201d  \u201cAudience, Please Stand for the Presentation of the Colors!\u201d  \"Scout Salute!  Those not in uniform, please place your right hand over your heart.\"  \u201cColor Guard, Advance\u201d   (when color guard reaches the front\u2026)\n\u201cColor Guard, Halt\u201d   \u201cColor Guard, Cross the Colors.\u201d  \u201cColor Guard, Post the Colors\u201d  \u201cPlease Join us in The Pledge of Allegiance\u201d (I pledge allegiance, to the flag...)  Please join us in \u201cThe Cub Scout Promise\u201d (I promise, to do my best...)  \u201cTwo.\u201d\n(Everyone drops salute)   \u201cColor Guard  Dismissed.  Pack at Ease.  Audience please be seated.\u201d",
+            "title": "Opening Flags"
+        },
+        {
+            "location": "/resources/flag-ceremony/#closing-flags",
+            "text": "\u201cCub Scouts Attention\u201d  \u201cColor Guard Attention\u201d  \u201cAudience Please Stand For the Retiring of the Colors\u201d  \u201cCub Scouts in Uniform \u201cHand Salute\u201d  \u201cColor Guard, Retrieve the Colors\u201d  \u201cColor Guard, Retire the Colors\u201d  \u201cCub Scouts  Too\u201d  \u201cBugler, Blow Taps\u201d",
+            "title": "Closing Flags"
         },
         {
             "location": "/resources/forms/",
