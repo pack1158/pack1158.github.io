@@ -68,7 +68,7 @@
     
         
     <url>
-     <loc>/resources/calendar/</loc>
+     <loc>/resources/pack-calendar/</loc>
      <lastmod>2018-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -93,6 +93,12 @@
         
     <url>
      <loc>/resources/camp-packing-list/</loc>
+     <lastmod>2018-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/resources/scoutbook-pack-calendar/</loc>
      <lastmod>2018-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
