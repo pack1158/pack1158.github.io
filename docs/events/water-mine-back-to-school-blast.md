@@ -1,18 +1,12 @@
 # Water Mine Back to School Blast
 
-August 11-12, 2018
-
-## Directions
-
-Lake Fairfax Park</br>
-1400 Lake Fairfax Drive
-
-## Forms
-
-- Completed medical forms (parts A and B) and copy of insurance card
-    - Medical forms are required for **ALL** participants
-    - Scout forms should already be on file (with copy of insurance card) - if
-      you are uncertain, please check
+- Date: 08/11/2018 (Sat.)
+- Time: 12:00pm
+- Location: Lake Fairfax Campground / Water Mine Family Swimmin' Hole
+- RSVP: [SignUpGenius](https://www.signupgenius.com/go/4090a4fabaa22a64-back)
+- Forms:
+    - [Activity Consent](water-mine-activity-consent-form.pdf) 
+    - [Health & Safety](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf)
 
 ## Draft Schedule
 
