@@ -1,18 +1,22 @@
 # Water Mine Back to School Blast
 
-We have created a [Doodle poll](https://doodle.com/poll/26dseem9zap3fax5) to
-help select a date for the Back to School Blast at Lake Fairfax / Water Mine
-Family Swimmin' Hole. Please indicate your availability for any of the weekends
-in August.
-
-*Below is a draft itinerary/campout plan and subject to change.*
+August 11-12, 2018
 
 ## Directions
 
 Lake Fairfax Park</br>
 1400 Lake Fairfax Drive
 
-## Schedule
+## Forms
+
+- Completed medical forms (parts A and B) and copy of insurance card
+    - Medical forms are required for **ALL** participants
+    - Scout forms should already be on file (with copy of insurance card) - if
+      you are uncertain, please check
+
+## Draft Schedule
+
+Subject to change...
 
 | Day | Time | Activity|
 |:--|:--|:--|
@@ -25,13 +29,6 @@ Lake Fairfax Park</br>
 |  | 10:00 PM | Lights Out |
 | Sunday | 8:30 AM | Camp Cleanup |
 |  | 8:45 AM | Closing Flags / Depart |
-
-## Forms
-
-- Completed medical forms (parts A and B) and copy of insurance card
-    - Medical forms are required for **ALL** participants
-    - Scout forms should already be on file (with copy of insurance card) - if
-      you are uncertain, please check
 
 ## Payment
 
@@ -54,6 +51,7 @@ Lake Fairfax Park</br>
 - Deck of cards, frisbee, etc.
 
 ### Food
+
 - Bring a bag lunch for Saturday check-in and snacks for the day
 - Bring water, drinks, and ice for your family
 - Bring a main dish for your family (pack will provide charcoal)
