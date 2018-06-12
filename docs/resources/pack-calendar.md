@@ -23,13 +23,13 @@
 |  | 12th | Roundtable |
 |  | 19th | Pack Meeting - Ice Cream Social |
 |  | 22nd-23rd | District Webelos-o-ree |
-|  | TBD | Bike Hike |
+|  | 30th | Bike Hike |
 | **October** | 1st | YPT 2.0 Deadline |
 |  | 10th | Roundtable |
 |  | TBD | Pack Campout |
 |  | 17th | Pack Meeting - Cub Grub |
-| **November** | TBD | Committee Meeting |
-|  | 3rd | Scouting for Food Bag Distribution |
+| **November** | 3rd | Scouting for Food Bag Distribution |
+|  | 6th | Committee Meeting |
 |  | 7th | Roundtable |
 |  | 10th | Scouting for Food Food Pick-up |
 |  | 14th | Pack Meeting - Uniform Inspection |
@@ -39,7 +39,7 @@
 |  | 12th | Roundtable |
 |  | 19th | Pack Meeting - LAWS |
 | **January** | TBD | Pinewood Derby Workshop |
-|  | 2nd | Committee Meeting |
+|  | 8th | Committee Meeting |
 |  | 9th | Roundtable |
 |  | 16th | Pack Meeting - Car Show |
 |  | 18th | Pinewood Derby Setup / Practice Runs |
