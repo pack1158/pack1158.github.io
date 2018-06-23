@@ -33,7 +33,7 @@ pick-up kickball game. If you have an idea, just let us know!_
 
 ### August
 
-- [Water Mine Back to School Blast (TBD)](events/water-mine-back-to-school-blast.md)
+- [Water Mine Back to School Blast (11-12 August 2018)](events/water-mine-back-to-school-blast.md)
 
 ## Contact
 
