@@ -19,12 +19,6 @@ work together to make sure attendance is noted in Scoutbook. _Note that
 additional events can be arranged, anything from a picnic to a hike or a
 pick-up kickball game. If you have an idea, just let us know!_
 
-### June
-
-- Rank Advancement & Awards Ceremony (10 June 2018)
-- ["Passport to Adventure" Day/Twilight Camp (18-22 June 2018)](events/passport-to-adventure.md)
-- [Soda Bottle Rocket Derby (23 June 2018)](events/soda-bottle-rocket-derby.md)
-
 ### July
 
 - [Independence Day Parade (4 July 2018)](events/independence-day-parade.md)
@@ -34,6 +28,10 @@ pick-up kickball game. If you have an idea, just let us know!_
 ### August
 
 - [Water Mine Back to School Blast (11-12 August 2018)](events/water-mine-back-to-school-blast.md)
+- Ashburn Elementary Back to School Night (21 August 2018)
+- Seldens Landing Elementary Back to School Night (21 August 2018)
+- Seldens Landing Elementary Open House (21 August 2018)
+- Ashburn Elementary Open House (22 August 2018)
 
 ## Contact
 
