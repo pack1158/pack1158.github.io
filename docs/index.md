@@ -8,30 +8,24 @@ the [Goose Creek District](https://www.ncacbsa.org/goose-creek/) of the
 America](https://www.scouting.org/) and is chartered by the [Rotary Club of
 Dulles International Airport](http://dullesairportrotary.org/).
 
-## National Summertime Pack Award Events
+## Upcoming Events
 
-All events listed below count toward the [National Summertime Pack
-Award](https://www.scouting.org/awards/awards-central/national-summertime/).
-This is an individual recognition, and scouts participating in three eligible
-events (one per month) are eligible to wear the National Summertime Pack Award
-pin on the right pocket flap of their uniform.  Parents and den leaders should
-work together to make sure attendance is noted in Scoutbook. _Note that
-additional events can be arranged, anything from a picnic to a hike or a
-pick-up kickball game. If you have an idea, just let us know!_
+### September
 
-### July
+- Committee Meeting (4 September 2018)
+- [Join Scouting Night](events/join-scouting-night.md) (11 September 2018)
+- District Roundtable (12 September 2018)
+- Pack Meeting - "Ice Cream Social" (19 September 2018)
+- District Webelos-o-ree (22-23 September 2018)
+- Pack Campout (29-30 September 2018)
 
-- [Independence Day Parade (4 July 2018)](events/independence-day-parade.md)
-- Goshen Camp (9-13 July 2018)
-- [Potomac Nationals Scout Night (28 July 2018)](events/potomac-nationals-scout-night.md)
+### October
 
-### August
-
-- [Water Mine Back to School Blast (11-12 August 2018)](events/water-mine-back-to-school-blast.md)
-- Ashburn Elementary Back to School Night (21 August 2018)
-- Seldens Landing Elementary Back to School Night (21 August 2018)
-- Seldens Landing Elementary Open House (21 August 2018)
-- Ashburn Elementary Open House (22 August 2018)
+- YPT 2.0 Deadline (1 October 2018)
+- District Roundtable (10 October 2018)
+- Bike Hike (TBD)
+- Pack Meeting - "Cub Grub" (17 October 2018)
+- Pow Wow (27 October 2018)
 
 ## Contact
 

@@ -19,7 +19,7 @@
 |  | 22nd | Ashburn Open House |
 |  | 23rd | First day of school |
 | **September** | 4th | Committee Meeting |
-|  | TBD | [Join Scouting Night](../events/join-scouting-night.md) |
+|  | 11th | [Join Scouting Night](../events/join-scouting-night.md) |
 |  | 12th | Roundtable |
 |  | 19th | Pack Meeting - Ice Cream Social |
 |  | 22nd-23rd | District Webelos-o-ree |
