@@ -28,6 +28,12 @@
     
         
     <url>
+     <loc>/events/bike-hike/</loc>
+     <lastmod>2018-10-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/events/soda-bottle-rocket-derby/</loc>
      <lastmod>2018-10-01</lastmod>
      <changefreq>daily</changefreq>
