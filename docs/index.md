@@ -10,14 +10,9 @@ Dulles International Airport](http://dullesairportrotary.org/).
 
 ## Upcoming Events
 
-### October
+### July
 
-- Pack Training Session (7 October 2018)
-- [District Roundtable](https://www.ncacbsa.org/goose-creek/roundtable/) (10 October 2018)
-- [Bike Hike](./events/bike-hike.md) (14 October 2018))
-- Pack Meeting - "Cub Grub" (17 October 2018)
-- [Pack Campout](./events/campout-fall-2018.md) (20-21 October 2018)
-- [Pow Wow](https://www.ncacbsa.org/training/pow-wow/) (27 October 2018)
+- [Independence Day Parade](./events/independence-day-parade.md) (4 July 2019)
 
 ## Contact
 
