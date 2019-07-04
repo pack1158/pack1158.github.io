@@ -80,12 +80,6 @@
     
         
     <url>
-     <loc>/resources/pack-calendar/</loc>
-     <lastmod>2019-07-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>/resources/flag-ceremony/</loc>
      <lastmod>2019-07-04</lastmod>
      <changefreq>daily</changefreq>
@@ -105,12 +99,6 @@
         
     <url>
      <loc>/resources/camp-packing-list/</loc>
-     <lastmod>2019-07-04</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/resources/scoutbook-pack-calendar/</loc>
      <lastmod>2019-07-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
