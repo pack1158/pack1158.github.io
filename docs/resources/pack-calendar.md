@@ -1,15 +1,13 @@
-# 2018-2019 Pack Calendar
+# 2019-2020 Pack Calendar
+
+**This page is currently under development.**
 
 | Month | Day | Event |
 |:--|:--|:--|
-| **June** | 6th | Committee/Planning Meeting |
-|  | 10th | Rank Awards & Advancement Celebrations |
-|  | 13th | Roundtable |
-|  | 18th-22nd | [Goose Creek Day/Twilight Camp](../events/passport-to-adventure.md) |
-|  | 23rd | [Soda Bottle Rocket Derby](../events/soda-bottle-rocket-derby.md) |
 | **July** | 4th | [Independence Day Parade](../events/independence-day-parade.md) |
-|  | 9th-13th | Goshen Camp |
-|  | 28th | [Potomac Nationals Scout Night](../events/potomac-nationals-scout-night.md) |
+|  | June 30th-July 6th | Goshen Camp |
+|  | 20th | [Potomac Nationals Scout Night](../events/potomac-nationals-scout-night.md) |
+|  | 26th-28th | Camp Snyder STEM Resident Weekend Camp |
 | **August** | 1st | Popcorn sales begin |
 |  | 8th | Roundtable |
 |  | 11th-12th | [Water Mine Back to School Blast](../events/water-mine-back-to-school-blast.md) |
@@ -64,6 +62,11 @@
 |  | 15th | Pack Meeting |
 |  | TBD | Soda Bottle Rocket Derby |
 | **June** | 2nd | Rank Awards & Advancement Celebration |
-|  | 12th | Roundtable |
+|  | 13th | Roundtable |
+|  | TBD | Goose Creek Day/Twilight Camp |
+|  | TBD | Soda Bottle Rocket Derby |
 | **July** | 4th | Independence Day Parade |
-|  | 26th-28th | Camp Snyder STEM Resident Weekend Camp |
+|  | TBD | Goshen Camp |
+|  | TBD | Potomac Nationals Scout Night |
+|  | TBD | Camp Snyder |
+
