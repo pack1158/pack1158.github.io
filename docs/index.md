@@ -10,22 +10,14 @@ Dulles International Airport](http://dullesairportrotary.org/).
 
 ## Upcoming Events
 
-### September
-
-- Committee Meeting (4 September 2018)
-- [Join Scouting Night](events/join-scouting-night.md) (11 September 2018)
-- District Roundtable (12 September 2018)
-- Pack Meeting - "Ice Cream Social" (19 September 2018)
-- District Webelos-o-ree (22-23 September 2018)
-- Pack Campout (29-30 September 2018)
-
 ### October
 
-- YPT 2.0 Deadline (1 October 2018)
-- District Roundtable (10 October 2018)
-- Bike Hike (TBD)
+- Pack Training Session (7 October 2018)
+- [District Roundtable](https://www.ncacbsa.org/goose-creek/roundtable/) (10 October 2018)
+- [Bike Hike](./events/bike-hike.md) (14 October 2018))
 - Pack Meeting - "Cub Grub" (17 October 2018)
-- Pow Wow (27 October 2018)
+- [Pack Campout](./events/campout-fall-2018.md) (20-21 October 2018)
+- [Pow Wow](https://www.ncacbsa.org/training/pow-wow/) (27 October 2018)
 
 ## Contact
 

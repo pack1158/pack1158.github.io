@@ -23,17 +23,18 @@
 |  | 12th | Roundtable |
 |  | 19th | Pack Meeting - Ice Cream Social |
 |  | 22nd-23rd | District Webelos-o-ree |
-|  | 29th-30th | Pack Campout |
 | **October** | 1st | YPT 2.0 Deadline |
+|  | 7th | Pack Training Session |
 |  | 10th | Roundtable |
-|  | TBD | Bike Hike |
+|  | 14th | [Bike Hike](../events/bike-hike.md) |
 |  | 17th | Pack Meeting - Cub Grub |
-|  | 27th | Pow Wow |
+|  | 20th-21st | [Pack Campout](../events/campout-fall-2018.md) |
+|  | 27th | Pow Wow (canceled) |
 | **November** | 3rd | Scouting for Food Bag Distribution |
 |  | 6th | Committee Meeting |
-|  | 7th | Roundtable |
 |  | 10th | Scouting for Food Food Pick-up |
 |  | 14th | Pack Meeting - Uniform Inspection |
+|  | 14th | Roundtable |
 | **December** | 3rd | Caroling Rehearsal |
 |  | 5th | Caroling |
 |  | 12th | Roundtable |
@@ -42,11 +43,11 @@
 |  | 8th | Committee Meeting |
 |  | 9th | Roundtable |
 |  | 16th | Pack Meeting - Car Show |
-|  | 18th | Pinewood Derby Setup / Practice Runs |
-|  | 19th | Pinewood Derby |
-|  | 25th | Pinewood Derby Setup / Practice Runs (snow date) |
-|  | 26th | Pinewood Derby (snow date) |
-| **February** | 9th | Blue & Gold Celebration |
+|  | 25th | Pinewood Derby Setup / Practice Runs |
+|  | 26th | Pinewood Derby |
+| **February** | 1st | Pinewood Derby Setup / Practice Runs (snow date) |
+|  | 2nd | Pinewood Derby (snow date) |
+|  | 9th | Blue & Gold Celebration |
 |  | 13th | Roundtable |
 |  | 16th | Blue & Gold (snow date) |
 |  | TBD | University of Scouting |
@@ -58,10 +59,11 @@
 | **April** | TBD | Pack Campout |
 |  | 10th | Roundtable |
 |  | 10th | Pack Meeting - Bonfire |
-| **May** | 7th | Committee/Planning Meeting |
-|  | TBD | Camp Snyder Family Camp |
+| **May** | TBD | Committee/Planning Meeting |
 |  | 8th | Roundtable |
 |  | 15th | Pack Meeting |
 |  | TBD | Soda Bottle Rocket Derby |
 | **June** | 2nd | Rank Awards & Advancement Celebration |
 |  | 12th | Roundtable |
+| **July** | 4th | Independence Day Parade |
+|  | 26th-28th | Camp Snyder STEM Resident Weekend Camp |
