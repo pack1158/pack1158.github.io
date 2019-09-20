@@ -1,50 +1,112 @@
 # Flag Ceremony
 
-## Opening Flags
+## Basic Opening Ceremony
 
-(US Flag is lined-up on the right side of the procession)
+_Have the color guard in the back of the room, ready holding the flags. The US
+Flag is on the right, then Troop flag on the left as the color guard is facing
+towards the front of the room._
 
-“Cub Scouts, Attention”
+__LEADER:__ "Color Guard, Attention!"
 
-“Color Guard, Attention”
+__LEADER:__ "Audience, Please Rise!"
 
-“Audience, Please Stand for the Presentation of the Colors!”
+__LEADER:__ "Scout Salute! Those not in uniform, please place your right hand over your
+heart."
 
-"Scout Salute!  Those not in uniform, please place your right hand over your heart."
+__LEADER:__ "Color Guard, Forward March!"
 
-“Color Guard, Advance” 
+(Wait color guard to near the front)
 
-(when color guard reaches the front…)
-“Color Guard, Halt” 
+__LEADER:__ "Color Guard, Halt!"
 
-“Color Guard, Cross the Colors.”
+__LEADER:__ "Color Guard, Cross the Colors!"
 
-“Color Guard, Post the Colors”
+(Wait for color guard to stand near the flag posts.)
 
-“Please Join us in The Pledge of Allegiance” (I pledge allegiance, to the flag...)
+__LEADER:__ "Please Join us in The Pledge of Allegiance!"
 
-Please join us in “The Cub Scout Promise” (I promise, to do my best...)
+(I pledge allegiance to the flag of the United States of America, and to...)
 
-“Two.”
-(Everyone drops salute) 
+__LEADER:__ "Color Guard, Post the Flag of the United States of America!"
 
-“Color Guard  Dismissed.  Pack at Ease.  Audience please be seated.”
+__LEADER:__ "Color Guard, Post the Flag of Pack 1158!"
 
-## Closing Flags
+__LEADER:__ "Color Guard, Honor your Colors with a salute!"
 
-“Cub Scouts Attention”
+(Flag bearers salute the US flag.)
 
-“Color Guard Attention”
+__LEADER:__ "TWO!"
 
-“Audience Please Stand For the Retiring of the Colors”
+(Everyone drops salute.)
 
-“Cub Scouts in Uniform “Hand Salute”
+__LEADER:__ "Scout Sign!"
 
-“Color Guard, Retrieve the Colors”
+(Everyone raises right hand making the Scout sign.)
 
-“Color Guard, Retire the Colors”
+__LEADER:__ "Please join us in reciting the Scout Oath!"
 
-“Cub Scouts  Too”
+(On my honor, I will do my best... To do my duty to God and my country...)
 
-“Bugler, Blow Taps”
+__LEADER:__ "Please join us in reciting the Scout Law!"
 
+(A Scout is: Trustworthy, Loyal, Helpful, Friendly...)
+
+__LEADER:__ "TWO!"
+
+(Everyone drops Scout sign)
+
+__LEADER:__ "Color Guard, Reform Ranks!"
+
+(Wait for the flag bearers to return to formation.)
+
+__LEADER:__ "Audience, please prepare yourself for prayer."
+
+(Read the handout with the prayer.)
+
+__LEADER:__ "Audience, please be seated. Color Guard, Dismissed!"
+
+## Basic Closing Closing
+
+_Leader assembles color guard in back of room or off stage so they are ready.
+You may only have flag bearers, 2 or 3 scouts following, 2 in front and 2
+behind, or any other crisp formation depending on number of scouts in color
+guard._
+
+__LEADER:__ "Color Guard, Attention!"
+
+__LEADER:__ "Audience, Please Rise!"
+
+__LEADER:__ "Color Guard, Forward March!"
+
+(Wait for color guard to reach near the front.)
+
+__LEADER:__ "Color Guard, Halt!"
+
+__LEADER:__ "Scout Salute!"
+
+__LEADER:__ "Those not in uniform, please place your right hand over your heart."
+
+__LEADER:__ "Color Guard, Retrieve the Colors!"
+
+(Wait for flag bearers to pick up their flags.)
+
+__LEADER:__ "Color Guard, Reform Ranks!"
+
+(Scouts not carrying flags turn to face the audience. US flag is on the far
+right, facing the audience, then state flag, then troop flag on far left.)
+
+(Wait for flag bearers to return to formation.)
+
+__LEADER:__ "Color Guard, Forward March!"
+
+(Wait until color guard reaches back of room.)
+
+__LEADER:__ "Color Guard, Halt!"
+
+__LEADER:__ "TWO!"
+
+(Everyone drops salute.)
+
+__LEADER:__ "Audience, thank you for joining us. Color Guard, Dismissed!"
+
+(Flag bearers should immediately put the flags away before starting to play with the other scouts.)
