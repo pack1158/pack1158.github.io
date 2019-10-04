@@ -20,4 +20,9 @@ Using this guide:
 [Banshee Reeks Nature Preserve](Banshee%20Reeks%20Hike2.docx)|	[Leesburg, VA](https://goo.gl/maps/BCDHZ4iGSeVgcQs66)|	Easy |	3.0|	[Map 2](Banshee%20Reeks%20Map2-1.jpg)|	14
 [Chapman-DeMary Trail](Chapman%20Demary%20hike17.docx)|	[Purcellville, VA](https://goo.gl/maps/vN9e57YvkDqTVTTdA)|	Easy||		[Map 17](chapman-demary%20map%2017-1.pdf) |	18	
 [	Franklin Park	](Franklin%20Park%20Hike10.docx)|	[	Purceville, VA	](	https://goo.gl/maps/w34EFDK7r8khkwBD7	)|	Easy	|	3.5	|	[Map	10	](Franklin%20Park%20Map10-1.PDF)|	22
-[	Manassas National Battlefield 1st and and 2nd Battle of Manassas	](Manassas%20Battlefield%20Hike11.docx)|	[	Manasas, VA	](	https://goo.gl/maps/6ogTNwg6VwdNoFgD9	)|	Moderate	|	5.8	|	[Map	11	](Manassas%20Battlefield%20Map11-1.pdf)|
+[	Manassas National Battlefield](Manassas%20Battlefield%20Hike11.docx)|	[	Manasas, VA	](	https://goo.gl/maps/6ogTNwg6VwdNoFgD9	)|	Moderate	|	5.8	|	[Map	11	](Manassas%20Battlefield%20Map11-1.pdf)|24
+[	Manassas National Battlefield	](Manassas%20Battlefield%20Hike12.docx)|	[	Manasas, VA	](	https://goo.gl/maps/6ogTNwg6VwdNoFgD9	)|	Moderate	|	5.5 - 6.0	|	[Map	12	](Manassas%20Battlefield%20Map11-1.pdf)|	24
+[	Manassas Battlefield, Chinn Ridge (Accessible)	](Manassas%20Battlefield%20Hike13.docx)|	[	Manasas, VA	](	https://goo.gl/maps/6ogTNwg6VwdNoFgD9	)|	Easy	|	1.0	|	[Map	13	](Manassas%20Battlefield%20Map11-1.pdf)|	24
+[	Snickers Gap to Bears Den	](Bears%20Den%20Hike%2022.docx)|	[	Blumont, VA	](	https://goo.gl/maps/kCJB2LmNn8C48Hkb9	)|	Easy	|	2	|	[Map	22	](Bears%20Den%20Map%2022-1.pdf)|	26
+[	C&O Canal, Catoctin Aqueduct (Accessible)	](Catoctin%20Aqueduct%20Hike4.docx)|	[	Brunswick, MD  	](	https://goo.gl/maps/neBuhf3RjoRixKZK7	)|	Easy	|	1.5	|	[Map	4-1	](Catoctin%20Aqueduct%20Map4-1.pdf) [Map 4-2](Catoctin%20Aqueduct%20Map4-2.pdf)|	27
+
