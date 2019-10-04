@@ -9,7 +9,7 @@ Hiking is a sport (YES HIKING IS A SPORT) and a great one at that. Leaders must 
 Using this guide:
 - All hikes are sorted by distance from Ashburn Elementary School.
 - click the "Hike" link to get a Word document describing the hike
-- click the "Location" link to see the location in google maps
+- click the "Location" link to see the hike location in google maps
 - click the "Trail Map" link for a topographical map with the highlighted route
 
  Hike | Location | Difficulty | Trail Length (miles) | Trail Map | Distance from AES (miles) 
