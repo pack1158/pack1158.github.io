@@ -1,7 +1,7 @@
 # Cub Scout Hiking Manual
 Welcome to Pack 1158’s Hiking Manual. It is a resource to aid Den Leaders in program planning for the Scouts they lead. It is to be noted, that while the hikes have been described for interest and difficulty, outings must still be properly planned. Always refer to your Den Leaders guide for assistance with planning hikes.
 
-Hiking is a sport (YES HIKING IS A SPORT) and a great one at that. Leaders must know and understand the capabilities of the Scouts they lead. Physical fitness must always be a consideration in hike planning. Additionally, Scouts should be properly trained in hike preparation, preparing necessary equipment, clothing, footwear, hydration and nutrition before heading out ([Hiking with Cubs](HIKING%20with%20CUBS.doc)). All of the Cub Scout ranks have adventure requirements that support hike preparation. 
+Hiking is a sport (YES HIKING IS A SPORT) and a great one at that. Leaders must know and understand the capabilities of the Scouts they lead. Physical fitness must always be a consideration in hike planning. Additionally, Scouts should be properly trained in hike preparation, preparing necessary equipment, clothing, footwear, hydration and nutrition before heading out (see [Hiking with Cubs](HIKING%20with%20CUBS.doc)). All of the Cub Scout ranks have adventure requirements that support hike preparation. 
 
 ***A PROPERLY EQUIPPED AND TRAINED SCOUT WILL DEVELOP A LIFE LONG LOVE OF HIKING***
 ##
