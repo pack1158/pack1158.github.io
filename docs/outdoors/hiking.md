@@ -40,3 +40,7 @@ Using this guide:
 [	Cunningham Falls Lower Trails (Accessible)	](Cunningham%20Hike6.docx)|	[	Thurmont, MD	](	https://goo.gl/maps/hPzCDxjnugVXiRZJ6	)|	Easy	|	1.8	|	[Map	6	](Cunningham%20Map%205-1.pdf)|	50
 [	Paw Paw Tunnel Hill	](Paw%20Paw%20Tunnel%20Hike25.docx)|	[	Oldtown, MD 	](	https://goo.gl/maps/FJVAdgBmisTguTiQ6	)|	Challenging	|		|	[Map	25	](Paw%20Paw%20Tunnel%20Map%2025-1.pdf)|	83
 
+Credit to Eagle Scout and Den Leader Raymond “Wally” Rinaldi of Leesburg Pack 704
+
+
+
