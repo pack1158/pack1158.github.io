@@ -17,4 +17,7 @@ pages:
     - Flag Ceremony: resources/flag-ceremony.md
     - Forms: resources/forms.md
     - Handbook: resources/handbook.md
+  - Outdoors:
+    - Outdoors: outdoors/outdoors.md
+    - Hiking: outdoors/hiking.md
     - Packing List: resources/camp-packing-list.md
