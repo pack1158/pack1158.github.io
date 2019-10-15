@@ -3,7 +3,7 @@ pages:
   - Home: index.md
   - Join:
     - Join Pack 1158: join.md
-    - Join Scouting Night: events/join-scouting-night.md
+#    - Join Scouting Night: events/join-scouting-night.md
   - Events:
     - Bike Hike: events/bike-hike.md
     - Bottle Rocket Derby: events/soda-bottle-rocket-derby.md
