@@ -191,37 +191,37 @@
             "title": "Cub Scout Hiking Manual"
         },
         {
-            "location": "/resources/camp-packing-list/",
-            "text": "Typical Packing List\n\n\nThe recommended packing list for a campout will vary from one to the next, but\nthe following list will serve as a general guideline.\n\n\nCamping Gear\n\n\n\n\nTent\n\n\nSleeping bag for cool weather\n\n\nBlanket\n\n\nFoam pad / sleeping roll / cot\n\n\nPillow\n\n\nCamp chair\n\n\n\n\nClothes\n\n\n\n\nFull changes of clothes (depending on length of stay)\n\n\nRain gear\n\n\nExtra pair of shoes/boots\n\n\nTwo extra pair of socks\n\n\n\n\nCub Scout Six Essentials\n\n\n\n\nFlashlight\n\n\nFirst aid kit\n\n\nSunscreen\n\n\nSnacks\n\n\nWhistle\n\n\nWater\n\n\n\n\nFood\n\n\n\n\nVaries by campout (whether bring your own, or organized)\n\n\nMess kit (plate, bowl, cup, knife, fork, spoon)\n\n\n\n\nOther\n\n\n\n\nClass B Activity uniform (yellow pack t-shirt)\n\n\nRank handbook",
+            "location": "/outdoors/camp-packing-list/",
+            "text": "Typical Packing List\n\n\nThe recommended packing list for a campout will vary from one to the next, but\nthe following list will serve as a general guideline. A more extensive list can\nbe found \nhere\n.\n\n\nCamping Gear\n\n\n\n\nTent\n\n\nSleeping bag for cool weather\n\n\nBlanket\n\n\nFoam pad / sleeping roll / cot\n\n\nPillow\n\n\nCamp chair\n\n\n\n\nClothes\n\n\n\n\nFull changes of clothes (depending on length of stay)\n\n\nRain gear\n\n\nExtra pair of shoes/boots\n\n\nTwo extra pair of socks\n\n\n\n\nCub Scout Six Essentials\n\n\n\n\nFlashlight\n\n\nFirst aid kit\n\n\nSunscreen\n\n\nSnacks\n\n\nWhistle\n\n\nWater\n\n\n\n\nFood\n\n\n\n\nVaries by campout (whether bring your own, or organized)\n\n\nMess kit (plate, bowl, cup, knife, fork, spoon)\n\n\n\n\nOther\n\n\n\n\nClass B Activity uniform (yellow pack t-shirt)\n\n\nRank handbook",
             "title": "Packing List"
         },
         {
-            "location": "/resources/camp-packing-list/#typical-packing-list",
-            "text": "The recommended packing list for a campout will vary from one to the next, but\nthe following list will serve as a general guideline.",
+            "location": "/outdoors/camp-packing-list/#typical-packing-list",
+            "text": "The recommended packing list for a campout will vary from one to the next, but\nthe following list will serve as a general guideline. A more extensive list can\nbe found  here .",
             "title": "Typical Packing List"
         },
         {
-            "location": "/resources/camp-packing-list/#camping-gear",
+            "location": "/outdoors/camp-packing-list/#camping-gear",
             "text": "Tent  Sleeping bag for cool weather  Blanket  Foam pad / sleeping roll / cot  Pillow  Camp chair",
             "title": "Camping Gear"
         },
         {
-            "location": "/resources/camp-packing-list/#clothes",
+            "location": "/outdoors/camp-packing-list/#clothes",
             "text": "Full changes of clothes (depending on length of stay)  Rain gear  Extra pair of shoes/boots  Two extra pair of socks",
             "title": "Clothes"
         },
         {
-            "location": "/resources/camp-packing-list/#cub-scout-six-essentials",
+            "location": "/outdoors/camp-packing-list/#cub-scout-six-essentials",
             "text": "Flashlight  First aid kit  Sunscreen  Snacks  Whistle  Water",
             "title": "Cub Scout Six Essentials"
         },
         {
-            "location": "/resources/camp-packing-list/#food",
+            "location": "/outdoors/camp-packing-list/#food",
             "text": "Varies by campout (whether bring your own, or organized)  Mess kit (plate, bowl, cup, knife, fork, spoon)",
             "title": "Food"
         },
         {
-            "location": "/resources/camp-packing-list/#other",
+            "location": "/outdoors/camp-packing-list/#other",
             "text": "Class B Activity uniform (yellow pack t-shirt)  Rank handbook",
             "title": "Other"
         }
